@@ -1,0 +1,269 @@
+[
+  {
+    "directory": "ip/eclassroom",
+    "java_files": 14,
+    "source_lines": 2830,
+    "latest_source_modified_at": "2025-12-15T12:01:51+08:00",
+    "java17_compile": true,
+    "compiler_output": "",
+    "sources": {
+      "Chatbox.java": "da866e2b931c23f921d1568d30c1f62cf63147cc5db0bcbf54ac8ee7b90a5ba3",
+      "LineData.java": "facf27dea0a10317df2de95aded2bbc5d9fa819e6a7327cf8ecaf0cd657a6eca",
+      "Main.java": "106aa8ea3afd5bd5b0ab1b657ffa6beed14bf6a3a849fe1f775b567952836795",
+      "NotificationUtil.java": "f722f43fc17e5a8affda45900f8ff15515ee24c7af5b421f80110efd65b8a9f1",
+      "Quiz_student.java": "00afbff978f5cc9ab735b4af75bffc55403ee1c778dc0b6210d45492d72c5c1b",
+      "Quiz_teacher.java": "9793fc688cef6b26450558196ef0758721796249e9e7ddc01b712c4a6d089581",
+      "Server.java": "f84321d4c73d86a6c4ef9f4319012bfea7906db9737a8366de4339383ea6310d",
+      "StudentClient.java": "d1dfa1e3fa7ccf6809f627154524ea1e8026ad80f114e096a4dc190f28c3d576",
+      "TeacherClient.java": "7786e4d29b9f0bd56b594f3b37c1b662befebb642d626d82115ac912324b4b3e",
+      "ToolMode.java": "f7dd3ad95f15438382e7596d1644a9e16c7cf72370dd8e29f391cec3a240a7c1",
+      "ToolbarFactory.java": "0acec86ad1e3f6f02f322106580c02f373072e82ef7722df41475c3d52001447",
+      "WhiteboardPanel.java": "af990a20c020f86a68801c878d02007ec26d134803d03ee25c099b39471d10f6",
+      "WhiteboardServer.java": "fbb99b313926e0ccf42477e8cc0c457023747fb4762032f2f97707638ba48444",
+      "picksomestudents.java": "eab2234399d48a875e4d6bdf9df2a9393facd6dab688aa20c62f77f5fa8c6b70"
+    }
+  },
+  {
+    "directory": "ip/eclassroom1",
+    "java_files": 12,
+    "source_lines": 2194,
+    "latest_source_modified_at": "2025-12-15T02:00:33+08:00",
+    "java17_compile": true,
+    "compiler_output": "",
+    "sources": {
+      "Chatbox.java": "da866e2b931c23f921d1568d30c1f62cf63147cc5db0bcbf54ac8ee7b90a5ba3",
+      "LineData.java": "facf27dea0a10317df2de95aded2bbc5d9fa819e6a7327cf8ecaf0cd657a6eca",
+      "Main.java": "106aa8ea3afd5bd5b0ab1b657ffa6beed14bf6a3a849fe1f775b567952836795",
+      "NotificationUtil.java": "f722f43fc17e5a8affda45900f8ff15515ee24c7af5b421f80110efd65b8a9f1",
+      "Server.java": "0ae326cd2da3fe1267a8be68f02c975871caadfbdc080c8a93da421adddb72db",
+      "StudentClient.java": "22d7fcb6972ac1029e4a4192a625dd96f9a4cc92b6ec30a907b6157a51b74961",
+      "TeacherClient.java": "445c3c0aa30abca81d410e0f4fc2d93cc39b9fa4faa84e4084cc021c497f7f0c",
+      "ToolMode.java": "f7dd3ad95f15438382e7596d1644a9e16c7cf72370dd8e29f391cec3a240a7c1",
+      "ToolbarFactory.java": "0acec86ad1e3f6f02f322106580c02f373072e82ef7722df41475c3d52001447",
+      "WhiteboardPanel.java": "af990a20c020f86a68801c878d02007ec26d134803d03ee25c099b39471d10f6",
+      "WhiteboardServer.java": "fbb99b313926e0ccf42477e8cc0c457023747fb4762032f2f97707638ba48444",
+      "picksomestudents.java": "eab2234399d48a875e4d6bdf9df2a9393facd6dab688aa20c62f77f5fa8c6b70"
+    }
+  },
+  {
+    "directory": "ip/eclassroom_0o0",
+    "java_files": 14,
+    "source_lines": 3385,
+    "latest_source_modified_at": "2025-12-15T23:27:21.978204+08:00",
+    "java17_compile": true,
+    "compiler_output": "",
+    "sources": {
+      "Chatbox.java": "da866e2b931c23f921d1568d30c1f62cf63147cc5db0bcbf54ac8ee7b90a5ba3",
+      "LineData.java": "facf27dea0a10317df2de95aded2bbc5d9fa819e6a7327cf8ecaf0cd657a6eca",
+      "Main.java": "106aa8ea3afd5bd5b0ab1b657ffa6beed14bf6a3a849fe1f775b567952836795",
+      "NotificationUtil.java": "3cfbe44b34c9bf89fca899c67409d54d3b1222b169aecd9e42197915408813d0",
+      "OnlineStudentsWindow.java": "0d43454375c9b978c8c42de32207e4317f498f14bb4e6a34af7cfcfd629153e6",
+      "Quiz_student.java": "35b596cf65ae5d104607ae63a678dff92804eaaa218af668e3db829c40fe1370",
+      "Quiz_teacher.java": "5ea0f370bf2d2d1f507d571206c84ca6cb21f1e9a0fcc3d1e390e3d42c0ee17f",
+      "Server.java": "49ab870f0888c4ccb2942879a34418ce9805380d17cc9813d487b4602fe356d3",
+      "StudentClient.java": "dcc5ab256f2162160af30ebdb2dfc9e7cf2394362fb818710769c1bee02c721e",
+      "TeacherClient.java": "ac91e468df25fa17cc67b1cc889845f449fc33dccfd91e8480f14878927099b9",
+      "ToolMode.java": "f7dd3ad95f15438382e7596d1644a9e16c7cf72370dd8e29f391cec3a240a7c1",
+      "ToolbarFactory.java": "d5025a6ba2f20abd83a1ebf924ceab3624066611d6f667da3a38c37afd1ebd1e",
+      "WhiteboardPanel.java": "7628193f60a954435f117040133bc3976d049e475bc66681999681d6fb788ac8",
+      "picksomestudents.java": "dc7b61a417715407a81ddc49b636ab0afb0fa7c82e3396f306e4d8296e64bea1"
+    }
+  },
+  {
+    "directory": "ip/eclassroom_ff",
+    "java_files": 14,
+    "source_lines": 3365,
+    "latest_source_modified_at": "2025-12-15T21:12:55.429937+08:00",
+    "java17_compile": true,
+    "compiler_output": "",
+    "sources": {
+      "Chatbox.java": "da866e2b931c23f921d1568d30c1f62cf63147cc5db0bcbf54ac8ee7b90a5ba3",
+      "LineData.java": "facf27dea0a10317df2de95aded2bbc5d9fa819e6a7327cf8ecaf0cd657a6eca",
+      "Main.java": "106aa8ea3afd5bd5b0ab1b657ffa6beed14bf6a3a849fe1f775b567952836795",
+      "NotificationUtil.java": "3cfbe44b34c9bf89fca899c67409d54d3b1222b169aecd9e42197915408813d0",
+      "OnlineStudentsWindow.java": "0d43454375c9b978c8c42de32207e4317f498f14bb4e6a34af7cfcfd629153e6",
+      "Quiz_student.java": "35b596cf65ae5d104607ae63a678dff92804eaaa218af668e3db829c40fe1370",
+      "Quiz_teacher.java": "5ea0f370bf2d2d1f507d571206c84ca6cb21f1e9a0fcc3d1e390e3d42c0ee17f",
+      "Server.java": "0ddf7c96246963c0354270146d770e9d106e9e9192d7325de59a98ed4dcb1669",
+      "StudentClient.java": "6a5f8ad33dde8d2f08f153b9d135aa1b29427043c18b0533cb3fa4ed82b6af10",
+      "TeacherClient.java": "ecee4590c29d82f829023e50de03231274b4e9c341e62fcbff3b8d3042aec3eb",
+      "ToolMode.java": "f7dd3ad95f15438382e7596d1644a9e16c7cf72370dd8e29f391cec3a240a7c1",
+      "ToolbarFactory.java": "47df12be14ea813eaf7386448e8f1d02b555a89a52e0b52b5473f9cd126f4746",
+      "WhiteboardPanel.java": "7628193f60a954435f117040133bc3976d049e475bc66681999681d6fb788ac8",
+      "picksomestudents.java": "dc7b61a417715407a81ddc49b636ab0afb0fa7c82e3396f306e4d8296e64bea1"
+    }
+  },
+  {
+    "directory": "ip/eclassroom_ffff",
+    "java_files": 14,
+    "source_lines": 3370,
+    "latest_source_modified_at": "2025-12-15T22:45:06.625925+08:00",
+    "java17_compile": true,
+    "compiler_output": "",
+    "sources": {
+      "Chatbox.java": "da866e2b931c23f921d1568d30c1f62cf63147cc5db0bcbf54ac8ee7b90a5ba3",
+      "LineData.java": "facf27dea0a10317df2de95aded2bbc5d9fa819e6a7327cf8ecaf0cd657a6eca",
+      "Main.java": "106aa8ea3afd5bd5b0ab1b657ffa6beed14bf6a3a849fe1f775b567952836795",
+      "NotificationUtil.java": "3cfbe44b34c9bf89fca899c67409d54d3b1222b169aecd9e42197915408813d0",
+      "OnlineStudentsWindow.java": "0d43454375c9b978c8c42de32207e4317f498f14bb4e6a34af7cfcfd629153e6",
+      "Quiz_student.java": "35b596cf65ae5d104607ae63a678dff92804eaaa218af668e3db829c40fe1370",
+      "Quiz_teacher.java": "5ea0f370bf2d2d1f507d571206c84ca6cb21f1e9a0fcc3d1e390e3d42c0ee17f",
+      "Server.java": "ad14ef35da367d6f33c33f674f3639bda2aaa0860a4cd9a7f56f1182e2df2d78",
+      "StudentClient.java": "6a5f8ad33dde8d2f08f153b9d135aa1b29427043c18b0533cb3fa4ed82b6af10",
+      "TeacherClient.java": "ecee4590c29d82f829023e50de03231274b4e9c341e62fcbff3b8d3042aec3eb",
+      "ToolMode.java": "f7dd3ad95f15438382e7596d1644a9e16c7cf72370dd8e29f391cec3a240a7c1",
+      "ToolbarFactory.java": "47df12be14ea813eaf7386448e8f1d02b555a89a52e0b52b5473f9cd126f4746",
+      "WhiteboardPanel.java": "7628193f60a954435f117040133bc3976d049e475bc66681999681d6fb788ac8",
+      "picksomestudents.java": "dc7b61a417715407a81ddc49b636ab0afb0fa7c82e3396f306e4d8296e64bea1"
+    }
+  },
+  {
+    "directory": "ip/eclassroom_ok",
+    "java_files": 15,
+    "source_lines": 3000,
+    "latest_source_modified_at": "2025-12-15T13:48:59+08:00",
+    "java17_compile": true,
+    "compiler_output": "",
+    "sources": {
+      "Chatbox.java": "da866e2b931c23f921d1568d30c1f62cf63147cc5db0bcbf54ac8ee7b90a5ba3",
+      "LineData.java": "facf27dea0a10317df2de95aded2bbc5d9fa819e6a7327cf8ecaf0cd657a6eca",
+      "Main.java": "106aa8ea3afd5bd5b0ab1b657ffa6beed14bf6a3a849fe1f775b567952836795",
+      "NotificationUtil.java": "3cfbe44b34c9bf89fca899c67409d54d3b1222b169aecd9e42197915408813d0",
+      "OnlineStudentsWindow.java": "24aff641ea1b30386670f9d0e52e7dd6c6c8b0c86ec2189ee8601b384ae53b8a",
+      "Quiz_student.java": "35b596cf65ae5d104607ae63a678dff92804eaaa218af668e3db829c40fe1370",
+      "Quiz_teacher.java": "5ea0f370bf2d2d1f507d571206c84ca6cb21f1e9a0fcc3d1e390e3d42c0ee17f",
+      "Server.java": "fbc791e049bb0110dac01d3531e690a06723ab11d625364a01d3850d7f7e9627",
+      "StudentClient.java": "2dfcc6e70f63a6231fc934444cd466c6247ddaa12e032d1206a23bfdd44a4380",
+      "TeacherClient.java": "02f68d44857457f01c29269c61b958169035d7d0576a62810000bcc8ff11fc9b",
+      "ToolMode.java": "f7dd3ad95f15438382e7596d1644a9e16c7cf72370dd8e29f391cec3a240a7c1",
+      "ToolbarFactory.java": "0acec86ad1e3f6f02f322106580c02f373072e82ef7722df41475c3d52001447",
+      "WhiteboardPanel.java": "af990a20c020f86a68801c878d02007ec26d134803d03ee25c099b39471d10f6",
+      "WhiteboardServer.java": "fbb99b313926e0ccf42477e8cc0c457023747fb4762032f2f97707638ba48444",
+      "picksomestudents.java": "dc7b61a417715407a81ddc49b636ab0afb0fa7c82e3396f306e4d8296e64bea1"
+    }
+  },
+  {
+    "directory": "ip/eclassroompre",
+    "java_files": 12,
+    "source_lines": 2103,
+    "latest_source_modified_at": "2025-12-14T22:04:57+08:00",
+    "java17_compile": true,
+    "compiler_output": "",
+    "sources": {
+      "Chatbox.java": "dcc1dc87858f8f5b1aef6ce991e83441c050fdb11e9b662ec05660c651f67afb",
+      "LineData.java": "facf27dea0a10317df2de95aded2bbc5d9fa819e6a7327cf8ecaf0cd657a6eca",
+      "Main.java": "106aa8ea3afd5bd5b0ab1b657ffa6beed14bf6a3a849fe1f775b567952836795",
+      "NotificationUtil.java": "374a9f5779fda94278d87022a72168f43a3b04db8589122531b5759c23f220d1",
+      "Server.java": "7074e4c733507f20330fbee8cb4652b18c522dbf85c9849cd225299ce90752f1",
+      "StudentClient.java": "65aa3623c812dcbbb426c34433ba66bcbdc2e083bd79d549111c5ae6371c18ec",
+      "TeacherClient.java": "519db3ac2c6e58353ae266482a4a210d8d6266e04c32a3bc66ee355db5f521d4",
+      "ToolMode.java": "f7dd3ad95f15438382e7596d1644a9e16c7cf72370dd8e29f391cec3a240a7c1",
+      "ToolbarFactory.java": "0acec86ad1e3f6f02f322106580c02f373072e82ef7722df41475c3d52001447",
+      "WhiteboardPanel.java": "253d22e096aa79af3f963c8f09e05d9f5a6eb580735ff7c211b1127eba3c180f",
+      "WhiteboardServer.java": "fbb99b313926e0ccf42477e8cc0c457023747fb4762032f2f97707638ba48444",
+      "picksomestudents.java": "11ae8ba23f0bbf2185ec2483e1a55ddb3bbbc9063563994c900a7415513364c1"
+    }
+  },
+  {
+    "directory": "ip/test",
+    "java_files": 4,
+    "source_lines": 725,
+    "latest_source_modified_at": "2025-12-12T11:41:30.234047+08:00",
+    "java17_compile": false,
+    "compiler_output": "ip/test/TeacherClient.java:298: error: cannot find symbol\n                    if (c.equals(selectedColor)) {\n                                 ^\n  symbol: variable selectedColor\nip/test/TeacherClient.java:310: error: cannot find symbol\n                selectedColor = c;\n                ^\n  symbol:   variable selectedColor\n  location: class TeacherClient\n2 errors",
+    "sources": {
+      "StudentClient.java": "ca8bfcdf1aa53c8856d3d6b2dbdaa9f4a70a175c11f66970603ec18aeb87bac2",
+      "TeacherClient.java": "8ba74cd62926dd833d2e706047b42c1d101c4bd7033a6f6ef9719b3e7c587ea0",
+      "WhiteboardServer.java": "74920dc263989cbf3df290f7159dba6a6062beacc72eeb0ea8a1ddc562a13acb",
+      "main.java": "ab87e4946113ac1c2da44724fd4db832f9e058f9f0adc157450fc50dd7953c6f"
+    }
+  },
+  {
+    "directory": "ip/test2",
+    "java_files": 8,
+    "source_lines": 787,
+    "latest_source_modified_at": "2025-12-12T15:25:28.811084+08:00",
+    "java17_compile": true,
+    "compiler_output": "",
+    "sources": {
+      "LineData.java": "facf27dea0a10317df2de95aded2bbc5d9fa819e6a7327cf8ecaf0cd657a6eca",
+      "Main.java": "a4c0ab9f279d0ea830bd503c1385bcd374e2087c5a94bf8dc3c969654f286188",
+      "StudentClient.java": "d7a0266a1439831b27e887cfec46a250913d3b07567f9b7790e857dcf715151d",
+      "TeacherClient.java": "57bd1d35cfbf43d279d589e75e285e9d99f4e73b0c427b8dbf42c301b6c94b83",
+      "ToolMode.java": "b6fdbaa505f8bcb4291db22f1651cb1d38957be419c59bbeb38241efbc72f908",
+      "ToolbarFactory.java": "3455a2447ca680f42c496e059f69fed63402bf7c498aa71ad929b919bc2101f9",
+      "WhiteboardPanel.java": "52d57a195445ecba6cd0ef1f7cf69e4f966647c403d8597d3f45fc607254d495",
+      "WhiteboardServer.java": "fbb99b313926e0ccf42477e8cc0c457023747fb4762032f2f97707638ba48444"
+    }
+  },
+  {
+    "directory": "ip/test3",
+    "java_files": 11,
+    "source_lines": 1190,
+    "latest_source_modified_at": "2025-12-13T18:29:03.914775+08:00",
+    "java17_compile": true,
+    "compiler_output": "",
+    "sources": {
+      "networkprograming114/Chatbox.java": "d50d684c3990c2fee83a650d3d0364de83e042425f4a99d4470e12bae2d8fce7",
+      "networkprograming114/LineData.java": "facf27dea0a10317df2de95aded2bbc5d9fa819e6a7327cf8ecaf0cd657a6eca",
+      "networkprograming114/Main.java": "8fcc88b7ddf63bfbadff2126e536866bd1d5697bcb7a6edfbdc99b8289d15903",
+      "networkprograming114/Server.java": "cfb3e2a1e22c913c4da31730df0d49e4bbe5f909d7f5902b24cdd528fcd63441",
+      "networkprograming114/StudentClient.java": "ba88b61d861c545ddff18596d8da7e8c2721dcbd09249b3bb5beda44c8f54a5a",
+      "networkprograming114/TeacherClient.java": "1095816c2ddda4e6b829e04b677c58d88e5daa4c919722764402843a6e27a77c",
+      "networkprograming114/ToolMode.java": "b6fdbaa505f8bcb4291db22f1651cb1d38957be419c59bbeb38241efbc72f908",
+      "networkprograming114/ToolbarFactory.java": "06334b42eb0db806ea0e81ba66b2d263b3974e05566cc80d5118cfac5b243806",
+      "networkprograming114/WhiteboardPanel.java": "52d57a195445ecba6cd0ef1f7cf69e4f966647c403d8597d3f45fc607254d495",
+      "networkprograming114/WhiteboardServer.java": "fbb99b313926e0ccf42477e8cc0c457023747fb4762032f2f97707638ba48444",
+      "networkprograming114/picksomestudents.java": "bf6150e299b513b343fac02c3913a1ecc59e60cf3b66a3fca269eb487ab2511e"
+    }
+  },
+  {
+    "directory": "ip/wb",
+    "java_files": 4,
+    "source_lines": 1830,
+    "latest_source_modified_at": "2025-12-14T16:12:24+08:00",
+    "java17_compile": false,
+    "compiler_output": "ip/wb/1.java:24: error: unmappable character (0xAC) for encoding UTF-8\n    boolean erasing = false; // �O�_�ϥξ����\n                                ^\nip/wb/1.java:24: error: unmappable character (0xA7) for encoding UTF-8\n    boolean erasing = false; // �O�_�ϥξ����\n                                  ^\nip/wb/1.java:24: error: unmappable character (0xA8) for encoding UTF-8\n    boolean erasing = false; // �O�_�ϥξ����\n                                    ^\nip/wb/1.java:24: error: unmappable character (0xF3A5) for encoding UTF-8\n    boolean erasing = false; // �O�_�ϥξ����\n                                       ^\nip/wb/1.java:24: error: unmappable character (0xD6) for encoding UTF-8\n    boolean erasing = false; // �O�_�ϥξ����\n                                        ^\nip/wb/1.java:24: error: unmappable character (0xC0) for encoding UTF-8\n    boolean erasing = false; // �O�_�ϥξ����\n                                         ^\nip/wb/1.java:24: error: unmappable character (0xBF) for encoding UTF-8\n    boolean erasing = false; // �O�_�ϥξ����\n                                          ^\nip/wb/1.java:33: error: unmappable character (0xA5) for encoding UTF-8\n        // ===== �ժO�� =====\n                 ^\nip/wb/1.java:33: error: unmappable character (0xB0) for encoding UTF-8\n        // ===== �ժO�� =====\n                    ^\nip/wb/1.java:33: error: unmappable character (0xCF) for encoding UTF-8\n        // ===== �ժO�� =====\n                     ^\nip/wb/1.java:75: error: unmappable character (0xB5) for encoding UTF-8\n        // --- �e�����s ---\n               ^\nip/wb/1.java:75: error: unmappable character (0xB5) for encoding UTF-8\n        // --- �e�����s ---\n                 ^\nip/wb/1.java:75: error: unmappable character (0xA7) for encoding UTF-8\n        // --- �e�����s ---\n                  ^\nip/wb/1.java:75: error: unmappable character (0xAB) for encoding UTF-8\n        // --- �e�����s ---\n                   ^\nip/wb/1.java:75: error: unmappable character (0xF6) for encoding UTF-8\n        // --- �e�����s ---\n                    ^\nip/wb/1.java:75: error: unmappable character (0xB6) for encoding UTF-8\n        // --- �e�����s ---\n                     ^\nip/wb/1.java:83: error: unmappable character (0xA6) for encoding UTF-8\n            erasing = false;   // �^��e���Ҧ�\n                                  ^\nip/wb/1.java:83: error: unmappable character (0xA8) for encoding UTF-8\n            erasing = false;   // �^��e���Ҧ�\n                                    ^\nip/wb/1.java:83: error: unmappable character (0xECB5) for encoding UTF-8\n            erasing = false;   // �^��e���Ҧ�\n                                     ^\nip/wb/1.java:83: error: unmappable character (0xB5) for encoding UTF-8\n            erasing = false;   // �^��e���Ҧ�\n                                       ^\nip/wb/1.java:83: error: unmappable character (0xA7) for encoding UTF-8\n            erasing = false;   // �^��e���Ҧ�\n                                        ^\nip/wb/1.java:83: error: unmappable character (0xBC) for encoding UTF-8\n            erasing = false;   // �^��e���Ҧ�\n                                         ^\nip/wb/1.java:83: error: unmappable character (0xA1) for encoding UTF-8\n            erasing = false;   // �^��e���Ҧ�\n                                           ^\nip/wb/1.java:88: error: unmappable character (0xBE) for encoding UTF-8\n        // --- ��������s ---\n               ^\nip/wb/1.java:88: error: unmappable character (0xF3A5) for encoding UTF-8\n        // --- ��������s ---\n                ^\nip/wb/1.java:88: error: unmappable character (0xD6) for encoding UTF-8\n        // --- ��������s ---\n                 ^\nip/wb/1.java:88: error: unmappable character (0xC0) for encoding UTF-8\n        // --- ��������s ---\n                  ^\nip/wb/1.java:88: error: unmappable character (0xBF) for encoding UTF-8\n        // --- ��������s ---\n                   ^\nip/wb/1.java:88: error: unmappable character (0xAB) for encoding UTF-8\n        // --- ��������s ---\n                    ^\nip/wb/1.java:88: error: unmappable character (0xF6) for encoding UTF-8\n        // --- ��������s ---\n                     ^\nip/wb/1.java:88: error: unmappable character (0xB6) for encoding UTF-8\n        // --- ��������s ---\n                      ^\nip/wb/1.java:97: error: unmappable character (0xBE) for encoding UTF-8\n            openEraserToolDialog();   // ������վ�ʲ�\n                                         ^\nip/wb/1.java:97: error: unmappable character (0xF3A5) for encoding UTF-8\n            openEraserToolDialog();   // ������վ�ʲ�\n                                          ^\nip/wb/1.java:97: error: unmappable character (0xD6) for encoding UTF-8\n            openEraserToolDialog();   // ������վ�ʲ�\n                                           ^\nip/wb/1.java:97: error: unmappable character (0xC0) for encoding UTF-8\n            openEraserToolDialog();   // ������վ�ʲ�\n                                            ^\nip/wb/1.java:97: error: unmappable character (0xBF) for encoding UTF-8\n            openEraserToolDialog();   // ������վ�ʲ�\n                                             ^\nip/wb/1.java:97: error: unmappable character (0xBD) for encoding UTF-8\n            openEraserToolDialog();   // ������վ�ʲ�\n                                              ^\nip/wb/1.java:97: error: unmappable character (0xE3B2) for encoding UTF-8\n            openEraserToolDialog();   // ������վ�ʲ�\n                                                ^\nip/wb/1.java:97: error: unmappable character (0xD3) for encoding UTF-8\n            openEraserToolDialog();   // ������վ�ʲ�\n                                                  ^\nip/wb/1.java:121: error: unmappable character (0xA7) for encoding UTF-8\n        // ===== �G�� =====\n                 ^\nip/wb/1.java:121: error: unmappable character (0xA7) for encoding UTF-8\n        // ===== �G�� =====\n                   ^\nip/wb/1.java:121: error: unmappable character (0xBD) for encoding UTF-8\n        // ===== �G�� =====\n                    ^\nip/wb/1.java:139: error: unmappable character (0xA5) for encoding UTF-8\n    // ===== �ժO��Ƶ��c =====\n             ^\nip/wb/1.java:139: error: unmappable character (0xB8) for encoding UTF-8\n    // ===== �ժO��Ƶ��c =====\n                ^\nip/wb/1.java:139: error: unmappable character (0xEAAE) for encoding UTF-8\n    // ===== �ժO��Ƶ��c =====\n                 ^\nip/wb/1.java:139: error: unmappable character (0xB2) for encoding UTF-8\n    // ===== �ժO��Ƶ��c =====\n                   ^\nip/wb/1.java:139: error: unmappable character (0xBA) for encoding UTF-8\n    // ===== �ժO��Ƶ��c =====\n                    ^\nip/wb/1.java:163: error: unmappable character (0xA9) for encoding UTF-8\n        // Action ��H�� \n                  ^\nip/wb/1.java:163: error: unmappable character (0xE2B6) for encoding UTF-8\n        // Action ��H�� \n                   ^\nip/wb/1.java:163: error: unmappable character (0xC3) for encoding UTF-8\n        // Action ��H�� \n                     ^\nip/wb/1.java:163: error: unmappable character (0xFE) for encoding UTF-8\n        // Action ��H�� \n                      ^\nip/wb/1.java:169: error: unmappable character (0xB5) for encoding UTF-8\n        // ===== �e�u Action =====\n                 ^\nip/wb/1.java:169: error: unmappable character (0xBD) for encoding UTF-8\n        // ===== �e�u Action =====\n                   ^\nip/wb/1.java:188: error: unmappable character (0xBE) for encoding UTF-8\n            // ===== ����� Action =====\n                     ^\nip/wb/1.java:188: error: unmappable character (0xF3A5) for encoding UTF-8\n            // ===== ����� Action =====\n                      ^\nip/wb/1.java:188: error: unmappable character (0xD6) for encoding UTF-8\n            // ===== ����� Action =====\n                       ^\nip/wb/1.java:188: error: unmappable character (0xC0) for encoding UTF-8\n            // ===== ����� Action =====\n                        ^\nip/wb/1.java:188: error: unmappable character (0xBF) for encoding UTF-8\n            // ===== ����� Action =====\n                         ^\nip/wb/1.java:348: error: unmappable character (0xB5) for encoding UTF-8\n    // ===== �e���]�w���� =====\n             ^\nip/wb/1.java:348: error: unmappable character (0xB5) for encoding UTF-8\n    // ===== �e���]�w���� =====\n               ^\nip/wb/1.java:348: error: unmappable character (0xA7) for encoding UTF-8\n    // ===== �e���]�w���� =====\n                ^\nip/wb/1.java:348: error: unmappable character (0xB3) for encoding UTF-8\n    // ===== �e���]�w���� =====\n                 ^\nip/wb/1.java:348: error: unmappable character (0xA9) for encoding UTF-8\n    // ===== �e���]�w���� =====\n                   ^\nip/wb/1.java:348: error: unmappable character (0xB5) for encoding UTF-8\n    // ===== �e���]�w���� =====\n                     ^\nip/wb/1.java:348: error: unmappable character (0xF8) for encoding UTF-8\n    // ===== �e���]�w���� =====\n                      ^\nip/wb/1.java:348: error: unmappable character (0xB5) for encoding UTF-8\n    // ===== �e���]�w���� =====\n                       ^\nip/wb/1.java:348: error: unmappable character (0xA1) for encoding UTF-8\n    // ===== �e���]�w���� =====\n                        ^\nip/wb/1.java:351: error: unmappable character (0xB5) for encoding UTF-8\n        JDialog dialog = new JDialog(this, \"�e���]�w\", true);\n                                            ^\nip/wb/1.java:351: error: unmappable character (0xB5) for encoding UTF-8\n        JDialog dialog = new JDialog(this, \"�e���]�w\", true);\n                                              ^\nip/wb/1.java:351: error: unmappable character (0xA7) for encoding UTF-8\n        JDialog dialog = new JDialog(this, \"�e���]�w\", true);\n                                               ^\nip/wb/1.java:351: error: unmappable character (0xB3) for encoding UTF-8\n        JDialog dialog = new JDialog(this, \"�e���]�w\", true);\n                                                ^\nip/wb/1.java:351: error: unmappable character (0xA9) for encoding UTF-8\n        JDialog dialog = new JDialog(this, \"�e���]�w\", true);\n                                                  ^\nip/wb/1.java:356: error: unmappable character (0xB7) for encoding UTF-8\n        Font uiFont = new Font(\"�L�n������\", Font.PLAIN, 15);\n                                ^\nip/wb/1.java:356: error: unmappable character (0xB3) for encoding UTF-8\n        Font uiFont = new Font(\"�L�n������\", Font.PLAIN, 15);\n                                  ^\nip/wb/1.java:356: error: unmappable character (0xA5) for encoding UTF-8\n        Font uiFont = new Font(\"�L�n������\", Font.PLAIN, 15);\n                                    ^\nip/wb/1.java:356: error: unmappable character (0xBF) for encoding UTF-8\n        Font uiFont = new Font(\"�L�n������\", Font.PLAIN, 15);\n                                     ^\nip/wb/1.java:356: error: unmappable character (0xB6) for encoding UTF-8\n        Font uiFont = new Font(\"�L�n������\", Font.PLAIN, 15);\n                                      ^\nip/wb/1.java:356: error: unmappable character (0xC2) for encoding UTF-8\n        Font uiFont = new Font(\"�L�n������\", Font.PLAIN, 15);\n                                       ^\nip/wb/1.java:356: error: unmappable character (0xC5) for encoding UTF-8\n        Font uiFont = new Font(\"�L�n������\", Font.PLAIN, 15);\n                                        ^\nip/wb/1.java:356: error: unmappable character (0xE9) for encoding UTF-8\n        Font uiFont = new Font(\"�L�n������\", Font.PLAIN, 15);\n                                         ^\nip/wb/1.java:357: error: unmappable character (0xB7) for encoding UTF-8\n        Font uiFontBold = new Font(\"�L�n������\", Font.BOLD, 15);\n                                    ^\nip/wb/1.java:357: error: unmappable character (0xB3) for encoding UTF-8\n        Font uiFontBold = new Font(\"�L�n������\", Font.BOLD, 15);\n                                      ^\nip/wb/1.java:357: error: unmappable character (0xA5) for encoding UTF-8\n        Font uiFontBold = new Font(\"�L�n������\", Font.BOLD, 15);\n                                        ^\nip/wb/1.java:357: error: unmappable character (0xBF) for encoding UTF-8\n        Font uiFontBold = new Font(\"�L�n������\", Font.BOLD, 15);\n                                         ^\nip/wb/1.java:357: error: unmappable character (0xB6) for encoding UTF-8\n        Font uiFontBold = new Font(\"�L�n������\", Font.BOLD, 15);\n                                          ^\nip/wb/1.java:357: error: unmappable character (0xC2) for encoding UTF-8\n        Font uiFontBold = new Font(\"�L�n������\", Font.BOLD, 15);\n                                           ^\nip/wb/1.java:357: error: unmappable character (0xC5) for encoding UTF-8\n        Font uiFontBold = new Font(\"�L�n������\", Font.BOLD, 15);\n                                            ^\nip/wb/1.java:357: error: unmappable character (0xE9) for encoding UTF-8\n        Font uiFontBold = new Font(\"�L�n������\", Font.BOLD, 15);\n                                             ^\nip/wb/1.java:363: error: unmappable character (0xBF) for encoding UTF-8\n        JLabel title = new JLabel(\"����C��G\");\n                                   ^\nip/wb/1.java:363: error: unmappable character (0xEFBE) for encoding UTF-8\n        JLabel title = new JLabel(\"����C��G\");\n                                    ^\nip/wb/1.java:363: error: unmappable character (0xDC) for encoding UTF-8\n        JLabel title = new JLabel(\"����C��G\");\n                                     ^\nip/wb/1.java:363: error: unmappable character (0xC3) for encoding UTF-8\n        JLabel title = new JLabel(\"����C��G\");\n                                      ^\nip/wb/1.java:363: error: unmappable character (0xA6) for encoding UTF-8\n        JLabel title = new JLabel(\"����C��G\");\n                                        ^\nip/wb/1.java:363: error: unmappable character (0xE2A1) for encoding UTF-8\n        JLabel title = new JLabel(\"����C��G\");\n                                         ^\nip/wb/1.java:379: error: unmappable character (0xB9) for encoding UTF-8\n        // ===== �w���� =====\n                 ^\nip/wb/1.java:379: error: unmappable character (0xC4) for encoding UTF-8\n        // ===== �w���� =====\n                   ^\nip/wb/1.java:379: error: unmappable character (0xFD) for encoding UTF-8\n        // ===== �w���� =====\n                    ^\nip/wb/1.java:379: error: unmappable character (0xB0) for encoding UTF-8\n        // ===== �w���� =====\n                     ^\nip/wb/1.java:379: error: unmappable character (0xCF) for encoding UTF-8\n        // ===== �w���� =====\n                      ^\nip/wb/1.java:400: error: unmappable character (0xC3) for encoding UTF-8\n        // ===== �C����s =====\n                 ^\n100 errors\nonly showing the first 100 errors, of 198 total; use -Xmaxerrs if you would like to see more",
+    "sources": {
+      "1.java": "6320d66efffd0654b5ba115d6dfcbb4da1bfe55e534409913b2aa75a7e83a192",
+      "StudentClient.java": "a48c85a16b2d6b9b6a729eae068fbd683c0c648f235bc5057d7273332e484e39",
+      "TeacherClient.java": "071941e671e7709de2fcbe7d14c3fa1f8d6a172fe0c8a7f9db90ff653a18cede",
+      "WhiteboardServer.java": "f1e6e1ce398d8c4b0e43b7670a55b512283fee54caf1885de7581306e897a31a"
+    }
+  },
+  {
+    "directory": "ip/whiteboard",
+    "java_files": 4,
+    "source_lines": 593,
+    "latest_source_modified_at": "2025-12-10T16:34:37.737775+08:00",
+    "java17_compile": true,
+    "compiler_output": "",
+    "sources": {
+      "networkprograming114/code/StudentClient.java": "57c9803a63c0b62ef8f73c9fcef9214b6e4a231e45a13354e58096b6bfa1262b",
+      "networkprograming114/code/TeacherClient.java": "3f3ff332bc3b87b03d85b46a62872c4343472b1d4a4b06a12ede94abed1844a0",
+      "networkprograming114/code/WhiteboardServer.java": "e2845cdc04bd157c8a1bc42c5002bb42f6daab26fea7b7a26d22d0e612fc1f84",
+      "networkprograming114/code/testgettime.java": "0202dff7b73098da0a8b71e2151fa03e2293d209bdfa22517f37744b99173f7e"
+    }
+  },
+  {
+    "directory": "ip/whiteboard_1",
+    "java_files": 11,
+    "source_lines": 1999,
+    "latest_source_modified_at": "2025-12-14T21:08:49.151553+08:00",
+    "java17_compile": true,
+    "compiler_output": "",
+    "sources": {
+      "Chatbox.java": "c47170d634b6291bbab8cee837d8d19aae35c51e9e8e50a1f0bfdda2071c2330",
+      "LineData.java": "facf27dea0a10317df2de95aded2bbc5d9fa819e6a7327cf8ecaf0cd657a6eca",
+      "Main.java": "106aa8ea3afd5bd5b0ab1b657ffa6beed14bf6a3a849fe1f775b567952836795",
+      "Server.java": "9e07e2382d32027a6e7898ff39db16320f6a041b005d42ee7069ecb323cdf58c",
+      "StudentClient.java": "71c4d2ca4e01c17900e2b4fbe35c7234b6d4bef16273d2099e7e63bf4f8b6847",
+      "TeacherClient.java": "460de6a62c0c0c656e56cee045d906a787a6faf56a6e1d960385db67d5b779eb",
+      "ToolMode.java": "f7dd3ad95f15438382e7596d1644a9e16c7cf72370dd8e29f391cec3a240a7c1",
+      "ToolbarFactory.java": "0acec86ad1e3f6f02f322106580c02f373072e82ef7722df41475c3d52001447",
+      "WhiteboardPanel.java": "253d22e096aa79af3f963c8f09e05d9f5a6eb580735ff7c211b1127eba3c180f",
+      "WhiteboardServer.java": "fbb99b313926e0ccf42477e8cc0c457023747fb4762032f2f97707638ba48444",
+      "picksomestudents.java": "11ae8ba23f0bbf2185ec2483e1a55ddb3bbbc9063563994c900a7415513364c1"
+    }
+  }
+]

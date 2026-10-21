@@ -1,0 +1,16 @@
+# Original coursework snapshots stay on this computer.
+/ip/
+.DS_Store
+._*
+
+# Generated artifacts
+/build/
+/dist/
+*.class
+*.log
+*.zip
+
+# Local editor settings
+.idea/
+.vscode/
+*.iml
